@@ -1,0 +1,3901 @@
+[
+  {
+    "id": "prod_0011",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0022",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0033",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_00433",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0044",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0042",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_00542",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0062",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0072",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0082",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0092",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0102",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0112",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0122",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0132",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0142",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0162",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0172",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0182",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0192",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_0202",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_022",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_023",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  },  {
+    "id": "prod_024",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuBne-g_S4pLt6dRIpk7qGabyn2HkXg_8g9IP3QxsvycX2rrmY4i1vb0vZ_ArYjn1cKHn4xsXPDGSgHxQHjLUBdXdYfJ2uH_HuQp9yf-B5fQo8i0F1iW3rw4icnTTUDzCkpyjO6m8iK-KlInIGReiGnoMFu8E0bnMnBbm9AwvCCrdnrgYO9B1rAgTVpCkxlx6gfOqKaEhPV8_GW8av6YzLMLMD5-CXlpDrDQzeL67H2SapjMLCWbFmWdiJVxFtWKkGehpcS3_ighyCg",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }, 
+   {
+    "id": "prod_025",
+    "name": "Custom Coffee Mug",
+    "slug": "custom-coffee-mug",
+    "short_description": "High-quality customizable ceramic mug.",
+    "brand": "MugCraft",
+    "category": {
+      "id": "cat_01",
+      "name": "Mugs"
+    },
+
+    "price": {
+      "base": 250,
+      "currency": "BDT",
+      "discount": {
+        "type": "percentage",
+        "value": 10,
+        "final_price": 225
+      }
+    },
+
+    "media": {
+      "thumbnail": "https://lh3.googleusercontent.com/aida-public/AB6AXuAMrZWvOQsY8Ybark1ERBmCq1kgMgYvR6Tjf8ZR4PQ8myvUWniuV7GW5I-B9zyG_jAhjBKqJJsS_eJGqOqNnOXm3iN0Dk-x7ARkNvCC9OVl2xd-b4FtOz879xSqgxe9EmJzTBSSuWfG5jnSuuD93azAR0b9mryCH7T7RtLChIMVSItkZqhfsR03P1E6K_6B-jDpmF8Rowp9p1GHTvIvf122aDsJ6PEba4e5xQP2VpbJoy6-VZT0bBmQQQkvXWdVRCOICpHilb_7UIw",
+      "gallery": [
+        "https://example.com/mug1.jpg",
+        "https://example.com/mug2.jpg",
+        "https://example.com/mug3.jpg"
+      ],
+      "video": "https://example.com/mug-video.mp4"
+    },
+
+    "variants": [
+      {
+        "id": "var_001",
+        "color": "Black",
+        "size": "Small",
+        "weight_grams": 250,
+        "price": 200,
+        "stock": 10,
+        "is_in_stock": true,
+        "sku": "MUG-BLK-S",
+        "image": "https://example.com/mug-black.jpg"
+      },
+      {
+        "id": "var_002",
+        "color": "White",
+        "size": "Large",
+        "weight_grams": 400,
+        "price": 300,
+        "stock": 5,
+        "is_in_stock": true,
+        "sku": "MUG-WHT-L",
+        "image": "https://example.com/mug-white.jpg"
+      }
+    ],
+
+    "attributes": {
+      "material": "Ceramic",
+      "capacity_ml": [250, 350, 500],
+      "dishwasher_safe": true,
+      "microwave_safe": true
+    },
+
+    "description": {
+      "long": "This premium ceramic mug is perfect for coffee lovers. You can customize it with your own design, text, or image. Durable and stylish for everyday use.",
+      "highlights": [
+        "Premium ceramic material",
+        "Custom print available",
+        "Heat resistant",
+        "Perfect gift item"
+      ]
+    },
+
+    "ratings": {
+      "average": 4.5,
+      "total_reviews": 120,
+      "breakdown": {
+        "5_star": 80,
+        "4_star": 25,
+        "3_star": 10,
+        "2_star": 3,
+        "1_star": 2
+      }
+    },
+
+    "reviews": [
+      {
+        "id": "rev_001",
+        "user": {
+          "name": "Siam",
+          "avatar": "https://example.com/user1.jpg"
+        },
+        "rating": 5,
+        "comment": "Excellent quality mug!",
+        "images": [],
+        "created_at": "2026-04-20"
+      },
+      {
+        "id": "rev_002",
+        "user": {
+          "name": "Rahim"
+        },
+        "rating": 4,
+        "comment": "Good but delivery was a bit slow.",
+        "created_at": "2026-04-18"
+      }
+    ],
+
+    "faq": [
+      {
+        "question": "Is this mug microwave safe?",
+        "answer": "Yes, it is completely microwave safe."
+      },
+      {
+        "question": "Can I customize the design?",
+        "answer": "Yes, you can upload your own image or text."
+      }, 
+      {
+        "question": " This Mug is really useable to everyone? ", 
+        "answer": "Yes, it is completely microwave safe."
+      }
+    ],
+
+    "inventory": {
+      "total_stock": 15,
+      "is_in_stock": true,
+      "low_stock_threshold": 5
+    },
+
+    "sales": {
+      "sold_count": 320,
+      "popularity_score": 4.8
+    },
+
+    "shipping": {
+      "weight_grams": 350,
+      "dimensions_cm": {
+        "length": 10,
+        "width": 10,
+        "height": 12
+      },
+      "shipping_class": "standard",
+      "estimated_delivery_days": 3
+    },
+
+    "tags": ["coffee", "mug", "custom", "gift"],
+
+    "seo": {
+      "meta_title": "Custom Coffee Mug - Personalized Mug",
+      "meta_description": "Buy high-quality custom mugs with your own design."
+    },
+
+    "status": "active",
+    "created_at": "2026-04-01",
+    "updated_at": "2026-04-25"
+  }
+]
