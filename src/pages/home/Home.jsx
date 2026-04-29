@@ -5,6 +5,7 @@ import Offer from '../../components/offer/Offer';
 import { useData } from '../../context/DataContext';
 import ProductCard from '../../components/productCard/ProductCard';
 import Products from './Products';
+import Comments from './Comments';
 
 const Home = () => {
     const {products, loading} = useData();
@@ -16,6 +17,7 @@ const Home = () => {
             <HeroCom/>
             <Offer/>
             <Products products={products} loading={loading}/>
+            <Comments/>
         </div>
     );
 };

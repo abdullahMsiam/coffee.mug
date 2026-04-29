@@ -1,11 +1,22 @@
 import React from 'react';
+import { FaShoppingCart } from 'react-icons/fa';
 
 const ProductCard = ({ product }) => {
     return (
-        <div>
+        <div className='bg-white shadow-md rounded-lg p-4 flex flex-col justify-between md:w-72'>
             <div>
-                <div>
-                    <img src={product?.media?.thumbnail} alt={product?.name} />
+                <div className='overflow-hidden rounded-lg'>
+                    <img className='h-44 md:h-80 w-full object-fit rounded-lg hover:scale-105 hover:overflow-hidden' src={product?.media?.thumbnail} alt={product?.name} />
+                </div>
+                <div className='mt-4'>
+                    <div>
+                        <h3 className='text-amber-900 font-semibold text-md'>{product?.name}</h3>
+                        <p className='text-gray-600'>{product?.short_description}</p>
+                    </div>
+                    <div className='flex flex-col md:flex-row items-center justify-between mt-2'>
+                        <p className='w-full text-amber-900 font-bold text-lg'>{product?.price?.base?.toFixed(2)} BDT</p>
+                        <button className='w-full md:w-auto bg-amber-900 text-white hover:bg-amber-700 text-sm font-bold py-2 px-4 rounded'> <span className='flex justify-around items-center gap-1'><span className='md:hidden'>Cart</span><FaShoppingCart/></span> </button>
+                    </div>
                 </div>
             </div>
         </div>
