@@ -12,10 +12,12 @@ const Banner = () => {
             md:items-center 
             md:justify-between 
             w-full
-            h-600px 
+            h-700px 
             md:h-550px
             overflow-hidden
-            bg-gray-100">
+            bg-gray-100
+            pt-40
+            md:pt-20">
                 <div className=" p-4 md:p-8">
                     {/* {
                         !loaded && (<ImageSkeleton />)

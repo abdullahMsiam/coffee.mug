@@ -3,10 +3,10 @@ import { FaShoppingCart } from 'react-icons/fa';
 
 const ProductCard = ({ product }) => {
     return (
-        <div className='bg-white shadow-md rounded-lg p-4 flex flex-col justify-between md:w-72'>
+        <div className='bg-white shadow-md rounded-lg p-4 flex flex-col justify-between md:w-72 transition duration-300 hover:-translate-y-2 ease-out h-fit'>
             <div>
                 <div className='overflow-hidden rounded-lg'>
-                    <img className='h-44 md:h-80 w-full object-fit rounded-lg hover:scale-105 hover:overflow-hidden' src={product?.media?.thumbnail} alt={product?.name} />
+                    <img className='h-36 md:h-80 w-full object-fit rounded-lg hover:scale-105 duration-300 ease-out hover:overflow-hidden' src={product?.media?.thumbnail} alt={product?.name} />
                 </div>
                 <div className='mt-4'>
                     <div>

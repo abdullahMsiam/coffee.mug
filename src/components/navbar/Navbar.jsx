@@ -1,27 +1,27 @@
 import React from 'react';
-import { Link } from 'react-router';
+import { Link, NavLink } from 'react-router';
 
 const navbarItems = (
     <>
     <li>
-        <Link to="/">Home</Link>
+        <NavLink to="/" className={({ isActive }) => isActive ? "text-amber-900 font-bold underline" : "text-gray-700 hover:text-amber-900"}>Home</NavLink>
     </li>
     <li>
-        <Link to="/shop">Shop</Link>
+        <NavLink to="/shop" className={({ isActive }) => isActive ? "text-amber-900 font-bold underline" : "text-gray-700 hover:text-amber-900"}>Shop</NavLink>
     </li>
     <li>
-        <Link to="/about">About</Link>
+        <NavLink to="/about" className={({ isActive }) => isActive ? "text-amber-900 font-bold underline" : "text-gray-700 hover:text-amber-900"}>About</NavLink>
     </li>
     <li>
-        <Link to="/contact">Contact</Link>
+        <NavLink to="/contact" className={({ isActive }) => isActive ? "text-amber-900 font-bold underline" : "text-gray-700 hover:text-amber-900"}>Contact</NavLink>
     </li>
     </>
 )
 
 const Navbar = () => {
     return (
-        <div className='bg-white'>
-            <div className="navbar bg-white text-black container shadow-[0_4px_6px_-1px_rgba(0,0,0,0.1)] mx-auto">
+        <div className='bg-white container mx-auto'>
+            <div className="navbar bg-white text-black container  shadow-[0_4px_6px_-1px_rgba(0,0,0,0.1)]  fixed top-0 z-10 opacity-90">
                 <div className="navbar-start ">
                     <div className="dropdown">
                         <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -29,16 +29,14 @@ const Navbar = () => {
                         </div>
                         <ul
                             tabIndex="-1"
-                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
+                            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow opacity-90 transition duration-500 ease-linear">
                             {navbarItems}
                         </ul>
                     </div>
-                    <Link to="/" 
-                    className="
+                    <NavLink to="/" className="
                     text-2xl font-bold text-amber-900 hover:text-amber-700
                     transition duration-300 hover:-translate-y-0.5 ease-out
-                    "
-                    >CoffeeMug</Link>
+                    ">CoffeeMug</NavLink>
                 </div>
                 <div className="navbar-center hidden lg:flex">
                     <ul className="menu menu-horizontal px-1">
