@@ -40,7 +40,7 @@
         "stock": 10,
         "is_in_stock": true,
         "sku": "MUG-BLK-S",
-        "image": "https://example.com/mug-black.jpg"
+        "image": "https://example.com/mug-coffee.jpg"
       },
       {
         "id": "var_002",
@@ -501,7 +501,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Coffee",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -657,7 +657,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Coffee",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -813,7 +813,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Blue",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -969,7 +969,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Blue",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -1125,7 +1125,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Blue",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -1444,7 +1444,7 @@
         "stock": 10,
         "is_in_stock": true,
         "sku": "MUG-BLK-S",
-        "image": "https://example.com/mug-black.jpg"
+        "image": "https://example.com/mug-blue.jpg"
       },
       {
         "id": "var_002",
@@ -1749,14 +1749,14 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Blue",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
         "stock": 10,
         "is_in_stock": true,
         "sku": "MUG-BLK-S",
-        "image": "https://example.com/mug-black.jpg"
+        "image": "https://example.com/mug-red.jpg"
       },
       {
         "id": "var_002",
@@ -2061,7 +2061,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -2217,7 +2217,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -2373,7 +2373,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -2529,7 +2529,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -2685,7 +2685,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -2841,7 +2841,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -2997,7 +2997,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -3153,7 +3153,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -3309,7 +3309,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Red",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
@@ -3472,7 +3472,7 @@
         "stock": 10,
         "is_in_stock": true,
         "sku": "MUG-BLK-S",
-        "image": "https://example.com/mug-black.jpg"
+        "image": "https://example.com/mug-red.jpg"
       },
       {
         "id": "var_002",
@@ -3776,7 +3776,7 @@
     "variants": [
       {
         "id": "var_001",
-        "color": "Black",
+        "color": "Green",
         "size": "Small",
         "weight_grams": 250,
         "price": 200,
