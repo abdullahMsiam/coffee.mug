@@ -1,5 +1,6 @@
 import React from 'react';
-import { FaShoppingCart } from 'react-icons/fa';
+import { FaShoppingCart, FaRegEye } from 'react-icons/fa';
+import { Link } from 'react-router';
 
 const ProductCard = ({ product }) => {
     return (
@@ -16,6 +17,11 @@ const ProductCard = ({ product }) => {
                     <div className='flex flex-col md:flex-row items-center justify-between mt-2'>
                         <p className='w-full text-amber-900 font-bold text-lg'>{product?.price?.base?.toFixed(2)} BDT</p>
                         <button className='w-full md:w-auto bg-amber-900 text-white hover:bg-amber-700 text-sm font-bold py-2 px-4 rounded'> <span className='flex justify-around items-center gap-1'><span className='md:hidden'>Cart</span><FaShoppingCart/></span> </button>
+                    </div>
+                    <div>
+                        <Link to={`/product/${product?.id}`} className='text-amber-900 hover:bg-amber-900 hover:text-white hover:transition duration-400 ease-in-out text-sm font-bold btn btn-outline w-full mt-2'> 
+                         <span><FaRegEye/></span> View Details 
+                        </Link>
                     </div>
                 </div>
             </div>
